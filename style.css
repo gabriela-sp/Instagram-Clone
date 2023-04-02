@@ -1,0 +1,16 @@
+.body {
+    background-color: #fafafa;
+}
+
+.nav-top {
+    height: 63px; 
+    background-color: white !important; 
+    border-top:0.5px solid #dbdbdb; 
+    border-bottom:1px solid #dbdbdb;
+}
+
+
+.nav-container {
+    padding-left: 25% !important; 
+    padding-right: 25% !important;
+}

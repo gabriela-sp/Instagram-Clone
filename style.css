@@ -83,3 +83,9 @@
 .btn {
     padding: .100rem .50rem !important;
 }
+
+.stories{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
